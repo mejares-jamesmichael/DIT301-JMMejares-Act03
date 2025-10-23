@@ -2,24 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
 # Project Reflections
 
 ## 1. What design choices did you make (colors, font, layout)?
 
-- **Colors:** I opted for a minimalist color palette primarily using black and white. This choice was made to create a clean, modern, and timeless aesthetic. The high contrast between black and white also enhances readability and reduces visual clutter.
+- **Colors:** I opted for a minimalist color palette primarily using blue and white. This choice was made to create a clean, modern, and timeless aesthetic. The high contrast between black and white also enhances readability and reduces visual clutter.
 - **Font:** The default Flutter font was used for this project. It is a sans-serif font, which is generally considered easy to read on digital screens.
 - **Layout:** The layout is centered and spacious to ensure that all elements are easy to see and interact with. I used a single-column layout to maintain a clear visual hierarchy and guide the user's focus.
 
